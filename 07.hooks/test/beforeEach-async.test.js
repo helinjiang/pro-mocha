@@ -1,6 +1,6 @@
 var expect = require('chai').expect;
 
-describe("Hook示例", function () {
+describe("beforeEach示例-异步操作", function () {
     var foo = false;
 
     beforeEach(function (done) {
