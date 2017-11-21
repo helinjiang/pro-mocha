@@ -1,0 +1,19 @@
+{
+  "name": "11.deal-absolute-paths",
+  "version": "1.0.0",
+  "description": "some mocha command usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "helinjiang",
+  "license": "MIT",
+  "devDependencies": {
+    "app-require-path": "^1.0.4",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "app-module-path": "^2.2.0"
+  }
+}
