@@ -9,7 +9,6 @@
   "author": "helinjiang",
   "license": "MIT",
   "devDependencies": {
-    "app-require-path": "^1.0.4",
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
   },
